@@ -3,8 +3,8 @@ def fizzbizz(n):
         if i % 15==0:
            print("fizzbizz")
         elif i % 5==0:
-             print("bizz")
+           print("bizz")
         elif i % 3==0:
-             print("fizz")
+           print("fizz")
         else:
             print(i)
